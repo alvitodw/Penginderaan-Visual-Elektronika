@@ -1,0 +1,10 @@
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Penginderaan Visual Elektronika\bin\Debug\Penginderaan Visual Elektronika.exe.config
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Penginderaan Visual Elektronika\bin\Debug\Penginderaan Visual Elektronika.exe
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Penginderaan Visual Elektronika\bin\Debug\Penginderaan Visual Elektronika.pdb
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Penginderaan Visual Elektronika\obj\Debug\Penginderaan Visual Elektronika.csproj.AssemblyReference.cache
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Penginderaan Visual Elektronika\obj\Debug\Penginderaan_Visual_Elektronika.Form1.resources
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Penginderaan Visual Elektronika\obj\Debug\Penginderaan_Visual_Elektronika.Properties.Resources.resources
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Penginderaan Visual Elektronika\obj\Debug\Penginderaan Visual Elektronika.csproj.GenerateResource.cache
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Penginderaan Visual Elektronika\obj\Debug\Penginderaan Visual Elektronika.csproj.CoreCompileInputs.cache
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Penginderaan Visual Elektronika\obj\Debug\Penginderaan Visual Elektronika.exe
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Penginderaan Visual Elektronika\obj\Debug\Penginderaan Visual Elektronika.pdb
