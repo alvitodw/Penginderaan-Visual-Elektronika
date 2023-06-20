@@ -1,0 +1,10 @@
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 4 PVE\bin\Debug\Modul 4 PVE.exe.config
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 4 PVE\bin\Debug\Modul 4 PVE.exe
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 4 PVE\bin\Debug\Modul 4 PVE.pdb
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 4 PVE\obj\Debug\Modul 4 PVE.csproj.AssemblyReference.cache
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 4 PVE\obj\Debug\Modul_4_PVE.Form1.resources
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 4 PVE\obj\Debug\Modul_4_PVE.Properties.Resources.resources
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 4 PVE\obj\Debug\Modul 4 PVE.csproj.GenerateResource.cache
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 4 PVE\obj\Debug\Modul 4 PVE.csproj.CoreCompileInputs.cache
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 4 PVE\obj\Debug\Modul 4 PVE.exe
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 4 PVE\obj\Debug\Modul 4 PVE.pdb

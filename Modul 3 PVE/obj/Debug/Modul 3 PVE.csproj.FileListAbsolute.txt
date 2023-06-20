@@ -1,0 +1,5 @@
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 3 PVE\obj\Debug\Modul 3 PVE.csproj.AssemblyReference.cache
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 3 PVE\obj\Debug\Modul_3_PVE.Form1.resources
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 3 PVE\obj\Debug\Modul_3_PVE.Properties.Resources.resources
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 3 PVE\obj\Debug\Modul 3 PVE.csproj.GenerateResource.cache
+C:\Alvito\UNPAD\SEMESTER 6\Penginderaan Visual Elektronika\Modul 3 PVE\obj\Debug\Modul 3 PVE.csproj.CoreCompileInputs.cache
